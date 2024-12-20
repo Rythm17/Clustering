@@ -1,4 +1,4 @@
-# Clustering Analysis on Wine Quality Dataset
+# Clustering Analysis 
 
 This project demonstrates a comprehensive clustering analysis using the Wine Quality dataset from the UCI Machine Learning Repository. The primary goal is to evaluate the impact of various clustering algorithms and preprocessing methods on clustering performance, providing insights into how these techniques influence unsupervised learning outcomes.
 The project applies multiple clustering algorithms (K-Means, Hierarchical Clustering, and Mean Shift) in conjunction with different preprocessing methods to assess their performance. Evaluation metrics include Silhouette Score, Calinski-Harabasz Index, and Davies-Bouldin Index. Visualizations and metric comparisons further illustrate the effectiveness of each approach.
